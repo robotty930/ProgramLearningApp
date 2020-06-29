@@ -7,4 +7,4 @@
 ![プログラム画面](https://github.com/robotty930/ProgramLearningApp/blob/master/image/Android%20Emulator%20-%20Pixel_2_API_30_5554%202020-06-29%2020-07-16_Moment(6).jpg)  
 そして「実行」をタッチするとロボットとステージが表示されます(いろいろと配置がおかしいですが(-_-;))。ここで「プログラムを進める」をタッチすると先の画面で作ったプログラム通りにロボットが移動します。  
 ![ステージ](https://github.com/robotty930/ProgramLearningApp/blob/master/image/Android%20Emulator%20-%20Pixel_2_API_30_5554%202020-06-29%2020-07-16_Moment(5).jpg)  
-プログラムからロボットを操作する部分の流れを[こちらの動画](https://youtu.be/Zt1ssJ1QE2E)まとめておきました。
+今まで紹介した一連の流れを[こちらの動画](https://youtu.be/Zt1ssJ1QE2E)まとめておきました。
