@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProgramLearningApp</string>
+    <string name="robot">robot</string>
+    <string name="masu">masu</string>
+    <string name="coin1">coin1</string>
+    <string name="coin">coin</string>
+    <string name="go">Go</string>
+    <string name="back">Back</string>
+    <string name="left">プログラミング作成に戻る</string>
+    <string name="right">プログラムを進める</string>
+    <string name="reset">リセット</string>
+</resources>
